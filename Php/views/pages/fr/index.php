@@ -11,7 +11,8 @@
     <link rel="stylesheet" href="../..//css/tacit.min.css">
     <link rel="stylesheet" href="../..//css/main.css">
     <link rel="stylesheet" href="../..//css/bootstrap.min.css">
-    <title>Php Covid 19 database updater</title>
+    <link rel="shortcut icon" href="../../images/covid-icon.png" type="image/x-icon">
+    <title>Base de données COVID 19 Php</title>
 </head>
 <body class="text-center">
     <?php

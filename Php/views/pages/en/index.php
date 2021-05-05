@@ -10,8 +10,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../..//css/tacit.min.css">
     <link rel="stylesheet" href="../..//css/main.css">
+    <link rel="shortcut icon" href="../../images/covid-icon.png" type="image/x-icon">
     <link rel="stylesheet" href="../..//css/bootstrap.min.css">
-    <title>Php Covid 19 database</title>
+    <title>Php COVID 19 database</title>
 </head>
 <body class="text-center">
     <?php
